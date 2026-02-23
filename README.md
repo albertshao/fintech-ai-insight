@@ -1,14 +1,14 @@
-![FinTech AI Insight Weekly Banner](./images/common/banner-fintech-ai-insight-weekly-redbackground.png)
+![FinTech AI Insight Weekly Banner](./images/fintech-ai-insight-weekly-2026week7-EN/banner-fintech-ai-insight-weekly-redbackground.png)
 
 # FinTech AI Insight
 
-FinTech AI Insight Weekly 的发布仓库，集中维护中英文周报与配图资源。
+Publishing repository for FinTech AI Insight Weekly, including bilingual reports and visual assets.
 
 ## Weekly Index
 
-| Year | Week | Publish Date | 中文版 | English | Images |
+| Year | Week | Publish Date | Chinese | English | Images |
 | --- | --- | --- | --- | --- | --- |
-| 2026 | 07 | 2026-02-11 | [CN](./weekly/fintech-ai-insight-weekly-2026week7-CN.md) | [EN](./weekly/fintech-ai-insight-weekly-2026week7-EN.md) | [Week7 Image Map](./images/common/image-map-week7.md) |
+| 2026 | 07 | 2026-02-11 | [CN](./weekly/fintech-ai-insight-weekly-2026week7-CN.md) | [EN](./weekly/fintech-ai-insight-weekly-2026week7-EN.md) | [Week7 Image Map](./images/fintech-ai-insight-weekly-2026week7-EN/image-map-week7.md) |
 
 ## Repository Structure
 
@@ -26,12 +26,13 @@ fintech-ai-insight/
 
 ## Asset Rules
 
-- 共用图片优先放在 `images/common/`，CN/EN 两版复用同一资源。
-- 如果某语言有独占图片，再放到对应语言目录。
-- 周报内图片链接建议使用相对路径：`../images/common/<file>`。
+- For each weekly report, store its images in the matching weekly folder under `images/`, not in `images/common/`.
+- If CN and EN use the same image for a given week, store that shared image in the EN weekly folder (for example, `images/fintech-ai-insight-weekly-2026week7-EN/`).
+- Use `images/common/` only for global assets not tied to a specific week.
+- In weekly markdown files, use relative paths like: `../images/fintech-ai-insight-weekly-YYYYweekWW-EN/<file>`.
 
 ## Naming Convention
 
-- Weekly 文件名：`fintech-ai-insight-weekly-YYYYweekWW-<LANG>.md`
-- `LANG` 目前使用 `CN` 与 `EN`。
-- 周序号 `WW` 使用两位数（如 `07`、`08`）。
+- Weekly filename format: `fintech-ai-insight-weekly-YYYYweekWW-<LANG>.md`
+- `LANG` currently uses `CN` and `EN`.
+- Week number `WW` should be two digits (for example, `07`, `08`).
