@@ -1,6 +1,6 @@
 # FinTech AI Weekly Week 07 Image Map
 
-- `banner-fintech-ai-insight-weekly.png` -> 周报头图（banner）
+- `images/common/banner-fintech-ai-insight-weekly.png` -> 周报通用头图（banner）
 - `model-gpt-5-3-codex-swe-bench-pro.png` -> 模型观察 / GPT-5.3-Codex
 - `model-claude-opus-4-6-agentic-coding.webp` -> 模型观察 / Claude Opus 4.6
 - `model-claude-opus-4-6-original.webp` -> 备用图（未在正文使用）

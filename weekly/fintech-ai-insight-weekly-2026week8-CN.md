@@ -1,4 +1,4 @@
-![FinTech AI Insight Weekly Banner](../images/fintech-ai-insight-weekly-2026week8-CN/fintech-ai-insight-weekly.png)
+![FinTech AI Insight Weekly Banner](../images/common/banner-fintech-ai-insight-weekly-redbackground.png)
 
 # FinTech AI Insight Weekly · Week 08 · 2026
 
