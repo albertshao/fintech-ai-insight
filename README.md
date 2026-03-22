@@ -10,6 +10,7 @@ Publishing repository for FinTech AI Insight Weekly, including bilingual reports
 | --- | --- | --- | --- | --- | --- |
 | 2026 | 07 | 2026-02-11 | [CN](./weekly/fintech-ai-insight-weekly-2026week7-CN.md) | [EN](./weekly/fintech-ai-insight-weekly-2026week7-EN.md) | [Week7 Image Map](./images/fintech-ai-insight-weekly-2026week7-EN/image-map-week7.md) |
 | 2026 | 08 | 2026-02-26 | [CN](./weekly/fintech-ai-insight-weekly-2026week8-CN.md) | [EN](./weekly/fintech-ai-insight-weekly-2026week8-EN.md) | [CN Images](./images/fintech-ai-insight-weekly-2026week8-CN/image-map-week8.md) / [EN Images](./images/fintech-ai-insight-weekly-2026week8-EN/image-map-week8-en.md) |
+| 2026 | 09 | 2026-03-10 | [CN](./weekly/fintech-ai-insight-weekly-2026week9-CN.md) | [EN](./weekly/fintech-ai-insight-weekly-2026week9-EN.md) | [CN Images](./images/fintech-ai-insight-weekly-2026week9-CN/image-map-week9.md) / [EN Images](./images/fintech-ai-insight-weekly-2026week9-EN/image-map-week9-en.md) |
 
 ## Repository Structure
 
